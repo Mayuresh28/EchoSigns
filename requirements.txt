@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+scikit-learn
+pyttsx3
+matplotlib
+pickle
+os
+time 
+warnings
+
