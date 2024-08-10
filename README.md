@@ -17,7 +17,7 @@ SignSpeak is an advanced sign language translator designed to facilitate seamles
 
 Clone the Repository
 
-git clone https://github.com/yourusername/signspeak.git
+git clone https://github.com/Mayuresh28/EchoSigns.git
 
 cd signspeak
 
